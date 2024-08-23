@@ -1,0 +1,15 @@
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\bin\Debug\Ejemplo1.exe
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\bin\Debug\Ejemplo1.pdb
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\obj\Debug\Ejemplo1.exe
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\2024\Programación Generica y Eventos\Tarea 5\Ejemplo1\obj\Debug\Ejemplo1.pdb
