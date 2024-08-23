@@ -1,0 +1,16 @@
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora_con_Interfaz.Calculadora.resources
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.csproj.GenerateResource.cache
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.AssemblyInfoInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.AssemblyInfo.cs
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.csproj.CoreCompileInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\bin\Debug\net8.0-windows\Calculadora con Interfaz.exe
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\bin\Debug\net8.0-windows\Calculadora con Interfaz.deps.json
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\bin\Debug\net8.0-windows\Calculadora con Interfaz.runtimeconfig.json
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\bin\Debug\net8.0-windows\Calculadora con Interfaz.dll
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\bin\Debug\net8.0-windows\Calculadora con Interfaz.pdb
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.dll
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\refint\Calculadora con Interfaz.dll
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.pdb
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\Calculadora con Interfaz.genruntimeconfig.cache
+E:\2024\Programación Generica y Eventos\Tarea 6\Calculadora con Interfaz\Calculadora con Interfaz\obj\Debug\net8.0-windows\ref\Calculadora con Interfaz.dll
