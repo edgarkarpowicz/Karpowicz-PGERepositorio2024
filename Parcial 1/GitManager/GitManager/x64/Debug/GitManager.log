@@ -1,0 +1,7 @@
+﻿  MainForm.cpp
+  StartScreen.cpp
+  WinMain.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GitManager.vcxproj -> E:\2024\Programación Generica y Eventos\Parcial 1\GitManager\x64\Debug\GitManager.exe
