@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea 8 - Parte 2 - Reader y Writer de Archivos/1.0.0": {
+        "runtime": {
+          "Tarea 8 - Parte 2 - Reader y Writer de Archivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea 8 - Parte 2 - Reader y Writer de Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
