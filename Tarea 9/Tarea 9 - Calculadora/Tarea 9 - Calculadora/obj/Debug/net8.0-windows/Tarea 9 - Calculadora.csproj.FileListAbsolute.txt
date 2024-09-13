@@ -1,0 +1,16 @@
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\bin\Debug\net8.0-windows\Tarea 9 - Calculadora.exe
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\bin\Debug\net8.0-windows\Tarea 9 - Calculadora.deps.json
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\bin\Debug\net8.0-windows\Tarea 9 - Calculadora.runtimeconfig.json
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\bin\Debug\net8.0-windows\Tarea 9 - Calculadora.dll
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\bin\Debug\net8.0-windows\Tarea 9 - Calculadora.pdb
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea_9___Calculadora.Calculadora.resources
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.csproj.GenerateResource.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.AssemblyInfoInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.AssemblyInfo.cs
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.csproj.CoreCompileInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.dll
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\refint\Tarea 9 - Calculadora.dll
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.pdb
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\Tarea 9 - Calculadora.genruntimeconfig.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - Calculadora\Tarea 9 - Calculadora\obj\Debug\net8.0-windows\ref\Tarea 9 - Calculadora.dll
