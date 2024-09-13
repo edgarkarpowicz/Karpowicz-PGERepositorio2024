@@ -1,0 +1,16 @@
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\bin\Debug\net8.0-windows\Tarea 9 - FileManager.exe
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\bin\Debug\net8.0-windows\Tarea 9 - FileManager.deps.json
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\bin\Debug\net8.0-windows\Tarea 9 - FileManager.runtimeconfig.json
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\bin\Debug\net8.0-windows\Tarea 9 - FileManager.dll
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\bin\Debug\net8.0-windows\Tarea 9 - FileManager.pdb
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea_9___FileManager.FileManager.resources
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.csproj.GenerateResource.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.AssemblyInfoInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.AssemblyInfo.cs
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.csproj.CoreCompileInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.dll
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\refint\Tarea 9 - FileManager.dll
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.pdb
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\Tarea 9 - FileManager.genruntimeconfig.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Tarea 9 - FileManager\Tarea 9 - FileManager\obj\Debug\net8.0-windows\ref\Tarea 9 - FileManager.dll
