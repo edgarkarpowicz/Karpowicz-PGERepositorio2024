@@ -1,0 +1,21 @@
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.csproj.AssemblyReference.cache
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\bin\Debug\Veterinaria.exe.config
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\bin\Debug\Veterinaria.exe
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\bin\Debug\Veterinaria.pdb
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.exe
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.pdb
+D:\PC\Descargas\Ejercicio PGE\Veterinaria\obj\Debug\Veterinaria.FormLogin.resources
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\bin\Debug\Veterinaria.exe.config
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\bin\Debug\Veterinaria.exe
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\bin\Debug\Veterinaria.pdb
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.csproj.AssemblyReference.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.FormLogin.resources
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.exe
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.pdb
+E:\2024\Programación Generica y Eventos\Tarea 9\Veterinaria\obj\Debug\Veterinaria.FormMainMenu.resources
