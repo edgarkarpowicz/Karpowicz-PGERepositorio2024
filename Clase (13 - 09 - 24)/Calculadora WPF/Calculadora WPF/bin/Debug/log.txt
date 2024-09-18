@@ -1,0 +1,74 @@
+----- Log Inicio -----
+13/9/2024 16:26:02: Se presiono 5
+13/9/2024 16:26:02: Se presiono 5
+13/9/2024 16:26:02: Se presiono 5
+13/9/2024 16:26:03: Se presiono 5
+13/9/2024 16:26:03: Se presiono 5
+13/9/2024 16:26:03: Se presiono 5
+13/9/2024 16:26:04: Se presiono 5
+13/9/2024 16:26:04: Bóton CLR presionado
+13/9/2024 16:26:05: Bóton CLR presionado
+13/9/2024 16:26:05: Bóton CLR presionado
+13/9/2024 16:26:05: Bóton CLR presionado
+13/9/2024 16:26:05: Bóton CLR presionado
+13/9/2024 16:26:05: Bóton CLR presionado
+13/9/2024 16:26:10: Se presiono 4
+13/9/2024 16:26:11: Multiplicación Presionada
+13/9/2024 16:26:11: Verificación de si va a ser multiples Operaciones...
+13/9/2024 16:26:11: txtBoxSaved: 4*
+13/9/2024 16:26:13: Se presiono 9
+13/9/2024 16:26:14: Igual Presionado
+13/9/2024 16:26:14: Los Datos que igual tiene son:
+13/9/2024 16:26:14: txtBoxSaved: 4*
+13/9/2024 16:26:14: txtBoxPrincipal: 9
+13/9/2024 16:26:14: segundo: 9
+13/9/2024 16:26:14: Multiplicación hecha: 0
+13/9/2024 16:26:15: Bóton CLR presionado
+----- Log Inicio -----
+13/9/2024 16:29:06: Se presiono 8
+13/9/2024 16:29:07: Multiplicación Presionada
+13/9/2024 16:29:08: Verificación de si va a ser multiples Operaciones...
+13/9/2024 16:29:08: txtBoxSaved: 8*
+13/9/2024 16:29:08: Se presiono 5
+13/9/2024 16:29:10: Igual Presionado
+13/9/2024 16:29:10: Los Datos que igual tiene son:
+13/9/2024 16:29:10: txtBoxSaved: 8*
+13/9/2024 16:29:10: txtBoxPrincipal: 5
+13/9/2024 16:29:10: segundo: 5
+13/9/2024 16:29:10: Multiplicación hecha: 0
+13/9/2024 16:29:11: Bóton CLR presionado
+13/9/2024 16:29:12: Resta Presionada
+13/9/2024 16:29:14: Resta Presionada
+13/9/2024 16:29:14: Algo en los txtBox sea el Saved o Principal esta mal
+13/9/2024 16:29:15: Se presiono 5
+13/9/2024 16:29:17: Multiplicación Presionada
+13/9/2024 16:29:17: Verificación de si va a ser multiples Operaciones...
+13/9/2024 16:29:17: txtBoxSaved: -5*
+13/9/2024 16:29:17: Se presiono 6
+13/9/2024 16:29:18: Igual Presionado
+13/9/2024 16:29:18: Los Datos que igual tiene son:
+13/9/2024 16:29:18: txtBoxSaved: -5*
+13/9/2024 16:29:18: txtBoxPrincipal: 6
+13/9/2024 16:29:18: segundo: 6
+13/9/2024 16:29:18: Multiplicación hecha: 0
+13/9/2024 16:29:20: Bóton CLR presionado
+13/9/2024 16:29:20: Se presiono 0
+13/9/2024 16:29:21: Se presiono 1
+13/9/2024 16:29:21: Se presiono 2
+13/9/2024 16:29:22: Se presiono 3
+13/9/2024 16:29:22: Se presiono 4
+13/9/2024 16:29:23: Se presiono 5
+13/9/2024 16:29:23: Se presiono 6
+13/9/2024 16:29:24: Se presiono 7
+13/9/2024 16:29:25: Se presiono 8
+13/9/2024 16:29:26: Se presiono 9
+13/9/2024 16:29:31: Multiplicación Presionada
+13/9/2024 16:29:31: Verificación de si va a ser multiples Operaciones...
+13/9/2024 16:29:31: txtBoxSaved: 0123456789*
+13/9/2024 16:29:32: Se presiono 6
+13/9/2024 16:29:32: Igual Presionado
+13/9/2024 16:29:33: Los Datos que igual tiene son:
+13/9/2024 16:29:33: txtBoxSaved: 0123456789*
+13/9/2024 16:29:33: txtBoxPrincipal: 6
+13/9/2024 16:29:33: segundo: 6
+13/9/2024 16:29:33: Multiplicación hecha: 0

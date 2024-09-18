@@ -1,0 +1,30 @@
+﻿<Window x:Class="Calculadora_WPF.Calculadora"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculadora_WPF"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="370" Width="250" Background="Black">
+    <Grid>
+        <Button x:Name="btnCero" Content="0" HorizontalAlignment="Left" Margin="10,268,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnCero_Click"/>
+        <Button x:Name="btnCLR" Content="CLR" HorizontalAlignment="Left" Margin="65,268,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnCLR_Click"/>
+        <Button x:Name="btnIgual" Content="=" HorizontalAlignment="Left" Margin="120,268,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="Gray" BorderBrush="White" Click="btnIgual_Click"/>
+        <Button x:Name="btnRestar" Content="-" HorizontalAlignment="Left" Margin="175,268,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="Gray" BorderBrush="White" Click="btnRestar_Click"/>
+        <Button x:Name="btnUno" Content="1" HorizontalAlignment="Left" Margin="10,213,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnUno_Click"/>
+        <Button x:Name="btnDos" Content="2" HorizontalAlignment="Left" Margin="65,213,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnDos_Click"/>
+        <Button x:Name="btnTres" Content="3" HorizontalAlignment="Left" Margin="120,213,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnTres_Click"/>
+        <Button x:Name="btnSumar" Content="+" HorizontalAlignment="Left" Margin="175,213,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="Gray" BorderBrush="White" Click="btnSumar_Click"/>
+        <Button x:Name="btnCuatro" Content="4" HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnCuatro_Click"/>
+        <Button x:Name="btnCinco" Content="5" HorizontalAlignment="Left" Margin="65,158,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnCinco_Click"/>
+        <Button x:Name="btnSeis" Content="6" HorizontalAlignment="Left" Margin="120,158,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnSeis_Click"/>
+        <Button x:Name="btnMultiplicar" Content="X" HorizontalAlignment="Left" Margin="175,158,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="Gray" BorderBrush="White" Click="btnMultiplicar_Click"/>
+        <Button x:Name="btnSiete" Content="7" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnSiete_Click"/>
+        <Button x:Name="btnOcho" Content="8" HorizontalAlignment="Left" Margin="65,103,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnOcho_Click"/>
+        <Button x:Name="btnNueve" Content="9" HorizontalAlignment="Left" Margin="120,103,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="White" BorderBrush="White" Click="btnNueve_Click"/>
+        <Button x:Name="btnDividir" Content="/" HorizontalAlignment="Left" Margin="175,103,0,0" VerticalAlignment="Top" Height="50" Width="50" Background="Gray" BorderBrush="White" Click="btnDividir_Click"/>
+        <TextBox x:Name="txtBoxSaved" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" Height="37" Background="Gray" BorderBrush="White" IsReadOnly="True"/>
+        <TextBox x:Name="txtBoxPrincipal" HorizontalAlignment="Center" Margin="0,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185" Height="37" Background="Gray" BorderBrush="White" IsReadOnly="True"/>
+
+    </Grid>
+</Window>
