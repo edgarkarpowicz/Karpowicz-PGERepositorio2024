@@ -1,0 +1,2 @@
+Crear una Aplicación que muestre en 6 objetos de la Clase Label con algunos Nombres de Controles Visuales contenidos en la Pestaña de Controles Comunes del Cuadro de Herramientas.
+Use las Propiedades para dar Formato.

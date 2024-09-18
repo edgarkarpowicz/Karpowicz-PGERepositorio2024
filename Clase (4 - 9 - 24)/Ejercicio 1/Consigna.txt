@@ -1,0 +1,2 @@
+Dispone 7 Objetos de la Clase Button con los Días de la Semana. Fijar en los Atributos Text de cada botón los Días de la Semana.
+Al presionar un botón mostrar en un objeto de la Clase Label el Día seleccionado.
