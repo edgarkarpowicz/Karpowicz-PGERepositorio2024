@@ -1,0 +1,15 @@
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\bin\Debug\PGE - Parcial 2 - Asistente Virtual.exe.config
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\bin\Debug\PGE - Parcial 2 - Asistente Virtual.exe
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\bin\Debug\PGE - Parcial 2 - Asistente Virtual.pdb
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual.csproj.AssemblyReference.cache
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\MenuPrincipal.g.cs
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\App.g.cs
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual_MarkupCompile.cache
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual_MarkupCompile.lref
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\MenuPrincipal.baml
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual.g.resources
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE___Parcial_2___Asistente_Virtual.Properties.Resources.resources
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual.csproj.GenerateResource.cache
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual.csproj.CoreCompileInputs.cache
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual.exe
+E:\2024\Programación Generica y Eventos\Parcial 2\PGE - Parcial 2 - Asistente Virtual\PGE - Parcial 2 - Asistente Virtual\obj\Debug\PGE - Parcial 2 - Asistente Virtual.pdb

@@ -1,0 +1,81 @@
+﻿<Window x:Class="PGE___Parcial_2___Asistente_Virtual.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PGE___Parcial_2___Asistente_Virtual"
+        mc:Ignorable="d"
+        Title="Asistente Virtual" Height="300" Width="250" MaxHeight="300" MaxWidth="250" MinHeight="300" MinWidth="250">
+    <StackPanel>
+        <Border Background="Black" BorderBrush="Black" BorderThickness="0,0,0,0.5" Padding="1.5">
+            <TextBlock HorizontalAlignment="Center" TextAlignment="Center" Width="250" Height="50" Background="LightBlue">
+                <Label x:Name="lTitulo" Content="Asistente Virtual" FontFamily="Britannic Bold" FontSize="24" Margin="0,5,0,10" Background="LightBlue" HorizontalAlignment="Center" FontWeight="Bold"/>
+            </TextBlock>
+        </Border>
+
+        <StackPanel x:Name="contenidoPrincipal" Visibility="Visible">
+            <Button x:Name="btnMicrofono" Content="🎙" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" Margin="0,25,0,0" Width="50" Height="50" Background="Red" BorderBrush="Black" Click="btnMicrofono_Click"/>
+            <Button x:Name="btnVerComandos" Content="👀 - Ver - 👀" Margin="0,10,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" Click="btnVerComandos_Click"/>
+            <Grid>
+                <Button x:Name="btnAgregarComandos" Content="Agregar - ➕" Margin="35,10,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Left" BorderBrush="Black" FontSize="14" Click="btnAgregarComandos_Click"/>
+                <Button x:Name="btnEditarComandos" Content="Editar - ✏️" Margin="0,10,35,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Right" BorderBrush="Black" FontSize="14" Click="btnEditarComandos_Click" />
+            </Grid>
+            <Border BorderBrush="Black" BorderThickness="0,2,0,0" Margin="0,25,0,0" Background="#FFADD8E6">
+                <Button x:Name="btnSalir" Content="❌ - Salir - ❌" Background="White" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" BorderThickness="0,1,0,1" Width="250" Height="25" Margin="0,12,0,12" Click="btnSalir_Click"/>
+            </Border>
+        </StackPanel>
+
+        <StackPanel x:Name="verComandosUI" Visibility="Collapsed">
+            <Label Content="Comandos" FontSize="20" HorizontalAlignment="Center" Margin="0,7.5,0,7.5" FontFamily="Britannic Bold"/>
+            <RichTextBox x:Name="rtbComandos" Height="100" FontFamily="Bahnschrift Light" FontSize="10" >
+                <FlowDocument>
+                    <Paragraph>
+                        <Run Text=""/>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+            <Button x:Name="btnLeerComandos" Content="🗣️ - Leer - 🗣️" Margin="0,10,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" Click="btnLeerComandos_Click"/>
+            <Button x:Name="btnVolverContenidoPrincipal" Content="Volver" Margin="0,10,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" Click="btnVolverContenidoPrincipal_Click"/>
+        </StackPanel>
+
+        <StackPanel x:Name="agregarComandosUI" Visibility="Collapsed">
+            <Label Content="Agregar Comandos" FontSize="20" HorizontalAlignment="Center" Margin="0,7.5,0,2.5" FontFamily="Britannic Bold"/>
+            <Grid>
+                <Label Content="Palabra Clave:" FontFamily="Britannic Bold" FontSize="10" Margin="5,5,0,5" Background="LightBlue" HorizontalAlignment="Left" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="80"/>
+                <TextBox x:Name="txtBoxClave" HorizontalAlignment="Left" FontFamily="Bahnschrift Light" FontSize="10" Margin="100,8,0,7" TextWrapping="NoWrap" Width="125" TextAlignment="Center"/>
+            </Grid>
+            <Grid>
+                <Label Content="Respuesta:" FontFamily="Britannic Bold" FontSize="10" Margin="5,5,0,5" Background="LightBlue" HorizontalAlignment="Left" FontWeight="Bold" Width="80" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                <TextBox x:Name="txtBoxRespuesta" HorizontalAlignment="Left" FontFamily="Bahnschrift Light" FontSize="10" Margin="100,8,0,7" TextWrapping="NoWrap" Width="125" TextAlignment="Center"/>
+            </Grid>
+            <Grid>
+                <Label Content="Archivo:" FontFamily="Britannic Bold" FontSize="10" Margin="5,5,0,5" Background="LightBlue" HorizontalAlignment="Left" FontWeight="Bold" Width="80" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                <Button x:Name="btnFileSearch" Content="📁" HorizontalAlignment="Left" Margin="195,3,0,0" VerticalAlignment="Top" Width="35" Height="23" Background="LightBlue" FontFamily="Bahnschrift Light" Click="btnFileSearch_Click"/>
+                <TextBox x:Name="txtBoxFile" TextWrapping="NoWrap" FontSize="10" FontFamily="Bahnschrift Light" TextAlignment="Center" IsReadOnly="True" Margin="100,9,60,8"/>
+            </Grid>
+            <Button x:Name="btnAgregarComando" Content="➕ - Agregar - ➕" Margin="0,7.5,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" Click="btnAgregarComando_Click"/>
+            <Button x:Name="btnVolverContenidoPrincipalAC" Content="Volver" Margin="0,7.5,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" Click="btnVolverContenidoPrincipal_Click"/>
+        </StackPanel>
+
+        <StackPanel x:Name="editarComandosUI" Visibility="Collapsed">
+            <Label Content="Editar Comandos" FontSize="20" HorizontalAlignment="Center" Margin="0,7.5,0,2.5" FontFamily="Britannic Bold"/>
+            <Grid>
+                <Label Content="Palabra Clave:" FontFamily="Britannic Bold" FontSize="10" Margin="5,5,0,5" Background="LightBlue" HorizontalAlignment="Left" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="80"/>
+                <TextBox x:Name="txtBoxClaveEditar" HorizontalAlignment="Left" FontFamily="Bahnschrift Light" FontSize="10" Margin="100,8,0,7" TextWrapping="NoWrap" Width="125" TextAlignment="Center"/>
+            </Grid>
+            <Grid>
+                <Label Content="Respuesta:" FontFamily="Britannic Bold" FontSize="10" Margin="5,5,0,5" Background="LightBlue" HorizontalAlignment="Left" FontWeight="Bold" Width="80" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                <TextBox x:Name="txtBoxRespuestaEditar" HorizontalAlignment="Left" FontFamily="Bahnschrift Light" FontSize="10" Margin="100,8,0,7" TextWrapping="NoWrap" Width="125" TextAlignment="Center"/>
+            </Grid>
+            <Grid>
+                <Label Content="Archivo:" FontFamily="Britannic Bold" FontSize="10" Margin="5,5,0,5" Background="LightBlue" HorizontalAlignment="Left" FontWeight="Bold" Width="80" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                <TextBox x:Name="txtBoxFileEditar" TextWrapping="NoWrap" FontSize="10" FontFamily="Bahnschrift Light" TextAlignment="Center" Margin="100,8,10,7" Height="16.08"/>
+            </Grid>
+            <Grid>
+                <Button x:Name="btnEditarComando" Content="✏️ - Editar - ✏️" Margin="10,7.5,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Left" BorderBrush="Black" FontSize="14" Click="btnEditarComando_Click"/>
+                <Button x:Name="btnBorrarComando" Content="🗑️ - Borrar - 🗑️" Margin="0,7.5,10,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Right" BorderBrush="Black" FontSize="14" Click="btnBorrarComando_Click"/>
+            </Grid>
+            <Button x:Name="btnVolverContenidoPrincipalEditar" Content="Volver" Margin="0,7.5,0,0" Background="LightBlue" FontFamily="Britannic Bold" HorizontalAlignment="Center" BorderBrush="Black" FontSize="14" Click="btnVolverContenidoPrincipal_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
