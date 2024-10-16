@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="S-e6lWU93kMP1BlkVFMp">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SkQL-wiZGCx45X4UY2Sl-2" target="SkQL-wiZGCx45X4UY2Sl-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SkQL-wiZGCx45X4UY2Sl-2" target="SkQL-wiZGCx45X4UY2Sl-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SkQL-wiZGCx45X4UY2Sl-2" target="ar6-Z2lS0fNerk3QlvwR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-2" value="Asistente Virtual" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF99FF;" parent="1" vertex="1">
+          <mxGeometry x="186" y="120" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-4" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot;&gt;Asistente Virtual&lt;/i&gt;&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-2" vertex="1">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-6" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, sans-serif; font-size: 24px; white-space-collapse: preserve; background-color: rgb(50, 50, 50);&quot;&gt;🎤︎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-2" vertex="1">
+          <mxGeometry x="35" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-7" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ver Comandos&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="SkQL-wiZGCx45X4UY2Sl-2" vertex="1">
+          <mxGeometry x="10" y="110" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-14" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Agregar Comandos&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="SkQL-wiZGCx45X4UY2Sl-2" vertex="1">
+          <mxGeometry x="10" y="130" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Programación Genérica y Eventos&lt;br&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Wireframe / MockUp del Asistente Virtual&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="186" y="40" width="456" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SkQL-wiZGCx45X4UY2Sl-9" target="SkQL-wiZGCx45X4UY2Sl-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-9" value="Ver Comandos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF99FF;" parent="1" vertex="1">
+          <mxGeometry x="442" y="105" width="200" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-11" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot;&gt;Comandos&lt;/i&gt;&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-9" vertex="1">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-12" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(33, 37, 41); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Lorem ipsum dolor sit amet. Et incidunt doloribus est laudantium maiores non nostrum nulla ea voluptates beatae sit modi iste et voluptates adipisci qui omnis quasi. Et natus placeat et quia consequuntur qui harum odit ut sint galisum. Aut animi voluptas est sequi quaerat a voluptate doloribus et omnis natus. Id ipsum voluptatibus vel dolorem repellat ut quasi consequatur.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-9" vertex="1">
+          <mxGeometry x="10" y="70" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-24" value="&lt;b&gt;VER COMANDOS PERSONALIZADOS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-9" vertex="1">
+          <mxGeometry x="70" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SkQL-wiZGCx45X4UY2Sl-15" target="SkQL-wiZGCx45X4UY2Sl-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-15" value="Agregar Comandos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF99FF;" parent="1" vertex="1">
+          <mxGeometry x="442" y="350" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-16" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;Agregar Comandos&lt;/i&gt;&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-15" vertex="1">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-19" value="&lt;b&gt;Oración Clave:&lt;/b&gt; {TEXTO AQUÍ}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-15" vertex="1">
+          <mxGeometry x="10" y="80" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-20" value="&lt;b&gt;Dirección de .EXE:&lt;/b&gt; DIR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-15" vertex="1">
+          <mxGeometry x="10" y="120" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkQL-wiZGCx45X4UY2Sl-23" value="&lt;b&gt;AGREGAR&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SkQL-wiZGCx45X4UY2Sl-15" vertex="1">
+          <mxGeometry x="70" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-6" value="&lt;b&gt;Respuesta: &lt;/b&gt;{TEXTO AQUÍ}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SkQL-wiZGCx45X4UY2Sl-15">
+          <mxGeometry x="10" y="100" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-1" value="Editar Comandos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="442" y="560" width="200" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-2" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;Editar Comandos&lt;/i&gt;&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ar6-Z2lS0fNerk3QlvwR-1">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-3" value="&lt;b&gt;Oración Clave:&lt;/b&gt; {TEXTO AQUÍ}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ar6-Z2lS0fNerk3QlvwR-1">
+          <mxGeometry x="10" y="80" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-4" value="&lt;b&gt;Dirección de .EXE:&lt;/b&gt; DIR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ar6-Z2lS0fNerk3QlvwR-1">
+          <mxGeometry x="10" y="120" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-5" value="&lt;b&gt;EDITAR&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ar6-Z2lS0fNerk3QlvwR-1">
+          <mxGeometry x="70" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar6-Z2lS0fNerk3QlvwR-7" value="&lt;b&gt;Respuesta: &lt;/b&gt;{TEXTO AQUÍ}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ar6-Z2lS0fNerk3QlvwR-1">
+          <mxGeometry x="10" y="100" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
